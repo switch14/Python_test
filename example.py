@@ -1,5 +1,5 @@
 #num1
-def hello_wprld():
+def hello_world():
     print("hello world")
 
 #num2
@@ -22,7 +22,7 @@ def add(a:int|float, b:int|float) -> int|float:
 
 
 if __name__ == "__main__":
-    hello_wprld()
+    hello_world()
     greet()
     print_name("やましん")
     print(get_greet())
